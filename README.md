@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [..](https://github.com/huggingface/transformers/commits?author=av-maslov&since=2020-09-30&until=2020-10-31)
+- 🔭 I’m currently working on 
 - https://github.com/huggingface/transformers/pull/7452
+- https://github.com/huggingface/transformers/commit/5e941bece26cee3edc08e7f9fb3c1e03c1742ad7
 - https://github.com/huggingface/transformers/commits?author=av-maslov&since=2020-10-01&until=2020-11-01
+- [..](https://github.com/huggingface/transformers/commits?author=av-maslov&since=2020-09-30&until=2020-10-31)
